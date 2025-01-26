@@ -213,7 +213,7 @@ const ProfilePage = () => {
                   <br />
                   <span class="duration">Duration: 15 minutes</span>
                 </li>
-                <li onclick="updateVideo('https://www.youtube.com/embed/-6fk3PXpznY', 100)">
+                <li onclick="updateVideo('https://www.youtube.com/watch?v=E9WGC0SLPVs', 100)">
                   <span class="title">Advanced Level</span>
                   <br />
                   <span class="duration">Duration: 20 minutes</span>
